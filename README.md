@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Utkarsh
-- 👀 I’m interested in backend development, system design, distributed systems.
+- 👀 I’m interested in frontend development, system design, distributed systems.
 - 🌱 I’m currently learning Javascript and DSA
 
 <!---
