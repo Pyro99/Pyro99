@@ -40,7 +40,7 @@ I'm a passionate **Software Engineer** with a knack for building scalable, effic
 - [Email](utkarshgunner10@gmail.com)  
 
 
-Feel free to reach out if you'd like to collaborate, chat about tech, or just say hi!
+Feel free to reach out if you'd like to collaborate, or just say hi!
 
 
 <!---
